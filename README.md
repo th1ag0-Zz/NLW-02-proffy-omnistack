@@ -1,4 +1,6 @@
+<p align="center">
 <img src="./.github/logo.svg" alt="Proffy" title="Proffy" />
+</p>
 
 <p align="center">
 <img width="480" src="./.github/vetor2.webp" alt="Proffy" title="Proffy" />
