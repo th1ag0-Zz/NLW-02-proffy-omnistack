@@ -1,6 +1,8 @@
-<div align="center">
-  <img src="./.github/logo.svg" alt="Proffy" title="Proffy" />
+<img src="./.github/logo.svg" alt="Proffy" title="Proffy" />
 
+<p align="center">
+<img width="480" src="./.github/vetor2.webp" alt="Proffy" title="Proffy" />
+</p>
 
 # :computer: Tecnologias
 
@@ -61,8 +63,6 @@ API available to be tested on http://localhost:3333/.
 ### 📱 Rodando o projeto no Mobile
 
 Para rodar o projeto no seu telefone, será preciso instalar o App do Expo.
-
-<br />
 
 ```zsh
 # Go to project's mobile folder
